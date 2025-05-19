@@ -1,4 +1,4 @@
-# MERN Stack Admin Dashboard
+![image](https://github.com/user-attachments/assets/38323692-f6af-42ec-9b9a-0bbccaf4d553)![image](https://github.com/user-attachments/assets/0635312b-d5b2-45b3-bd5b-35bff7cad5ff)# MERN Stack Admin Dashboard
 
 A full-featured admin dashboard built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
@@ -106,3 +106,42 @@ A full-featured admin dashboard built with the MERN stack (MongoDB, Express.js, 
 ## License
 
 MIT 
+
+## Final Output Screenshots
+1. Login Page Output Screenshot
+
+![image](https://github.com/user-attachments/assets/a034fc9c-47a1-4f92-b4e9-9d87a9a3db7d)
+
+2.Dashboard Output Screenshot
+
+![image](https://github.com/user-attachments/assets/51d15f8b-c0ad-451a-8f28-ee3dae7870b9)
+
+3. Dashboard Output Screenshot
+    - agents view in admin dashboard
+![image](https://github.com/user-attachments/assets/4f1d56eb-5294-48de-85ca-5b7a7b5ec890)
+
+    -graphical representation of status distribution, number of entries per agent, Completed Entries over time in admindashboard
+    
+![image](https://github.com/user-attachments/assets/b1fe4d87-d095-49a0-ae9a-f506f07acc76)
+
+4. agents component Output Screenshot
+
+![image](https://github.com/user-attachments/assets/e4838eb1-2f7b-483a-a268-fbbcc8f0e2bb)
+
+
+5. upload file Output Screenshot
+
+![image](https://github.com/user-attachments/assets/45a1da7f-c418-4d9a-b623-9f7c0f8a5629)
+
+6. List Of All the Users Data Output Screenshot
+
+![image](https://github.com/user-attachments/assets/04d5e0d4-e9be-4912-95fb-4dcc7156b27f)
+
+
+
+
+
+
+
+
+
