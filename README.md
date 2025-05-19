@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/38323692-f6af-42ec-9b9a-0bbccaf4d553)![image](https://github.com/user-attachments/assets/0635312b-d5b2-45b3-bd5b-35bff7cad5ff)# MERN Stack Admin Dashboard
+# MERN Stack Admin Dashboard
 
 A full-featured admin dashboard built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
