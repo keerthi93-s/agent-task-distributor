@@ -68,6 +68,14 @@ A full-featured admin dashboard built with the MERN stack (MongoDB, Express.js, 
    cd ../frontend
    npm start
    ```
+## Default Admin Login
+
+After setting up the backend, use the following credentials to log in as the admin:
+Email: admin@example.com  
+Password: admin123
+Note: 
+-These credentials are created automatically when you run the init-admin.js script in the backend.
+-For security, please change the password after your first login in a production environment.
 
 ## API Endpoints
 
